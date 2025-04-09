@@ -88,6 +88,8 @@ MACRO {dec} {"Dec."}
 FUNCTION {str:mastersthesis} {"Disserta{\c{c}}{\~a}o (Mestrado em Ci{\^e}ncia da Computa{\c{c}}{\~a}o)"}
 FUNCTION {str:phdthesis} {"Tese (Doutorado em Ci{\^e}ncia da Computa{\c{c}}{\~a}o)"}
 FUNCTION {str:chapter} {"Cap."}
+FUNCTION {str:tccads} {"Trabalho de Conclus{\~a}o de Curso (Graduação em Tecnologia em An{\´a}lise e Desenvolvimento de Sistemas"}
+FUNCTION {str:tcctds} {"Trabalho de Conclus{\~a}o de Curso (Curso Técnico em Desenvolvimento de Sistemas"}
 
 %==============================================================================
 % Definicao das abreviaturas padrao
